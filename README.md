@@ -16,7 +16,7 @@ I care about clean code, strong logic, and building projects that actually solve
 
 ---
 
-## 🧠 Tech I'm Learning
+## 🧠 I'm Learning
 - HTML, CSS, JavaScript  
 - Python  
 - Git & GitHub  
