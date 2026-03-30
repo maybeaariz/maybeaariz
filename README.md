@@ -26,7 +26,7 @@ I care about clean code, strong logic, and building projects that actually solve
 ---
 
 ## 📌 Projects (more coming soon)
-*(Add links when your repos are ready)*  
+  
 - Personal portfolio  
 - Small web apps  
 - Dark fantasy themed experiments  
