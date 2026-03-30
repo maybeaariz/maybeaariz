@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aariz
 
-I'm on a focused journey to become a Full Stack Developer — learning, building, and improving every day.  
+I'm on a focused journey to become a Full Stack Developer learning, building, and improving every day.  
 Right now I'm mastering how the front-end, back-end, and databases fit together to create real, usable systems.
 
 I care about clean code, strong logic, and building projects that actually solve problems.
