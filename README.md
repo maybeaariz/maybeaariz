@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=maybeaariz&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=maybeaariz&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maybeaariz&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+username=maybeaariz&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
