@@ -1,51 +1,33 @@
-# 👋 Hey, I'm Aariz
+<h1 align="center">Hi 👋, I'm Aariz Sheikh</h1>
+<h3 align="center">I'm on a focused journey to become a Full Stack Developer learning, building, and improving every day. Right now I'm mastering how the front-end, back-end, and databases fit together to create real, usable systems.</h3>
 
-I'm on a focused journey to become a Full Stack Developer learning, building, and improving every day.  
-Right now I'm mastering how the front-end, back-end, and databases fit together to create real, usable systems.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maybeaariz&label=Profile%20views&color=0e75b6&style=flat" alt="maybeaariz" /> </p>
 
-I care about clean code, strong logic, and building projects that actually solve problems.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maybeaariz" alt="maybeaariz" /></a> </p>
 
----
+- 🔭 I’m currently working on **A New App**
 
-## 🚀 What I'm Doing Right Now
-- Learning full stack development step-by-step  
-- Building small projects to understand real systems  
-- Writing cleaner, more consistent code every day  
-- Improving problem-solving & debugging skills  
-- Combining tech + communication to explain ideas clearly  
+- 🌱 I’m currently learning **Python for AI, JavaScript, React, React Native, LLMs, APIs, AI**
 
----
+- 💬 Ask me about **python, apps, ai**
 
-## 🧠 I'm Learning
-- HTML, CSS, JavaScript  
-- Python  
-- Git & GitHub  
-- Databases  
-- Currently exploring: React, Node.js, APIs  
+- 📫 How to reach me **aarizsheikh.uk@gmail.com**
 
----
+- ⚡ Fun fact **i fail and fix a lot of things**
 
-## 📌 Projects (more coming soon)
-  
-- Personal portfolio  
-- Small web apps  
-- Dark fantasy themed experiments  
-- Anything that helps me learn full stack  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/maybeeariz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maybeeariz" height="30" width="40" /></a>
+<a href="https://twitter.com/maybeaariz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maybeaariz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maybeaariz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maybeaariz" height="30" width="40" /></a>
+<a href="https://instagram.com/maybeaariz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maybeaariz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/maybeaariz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maybeaariz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/maybeeaariz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maybeeaariz" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## ⚡ Fun Facts 🐱
-- I have a cat  
-- I eat clean and stay healthy  
-- Love dark fantasy vibes  
-- Powered by caffeine & curiosity  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maybeaariz&show_icons=true&locale=en&layout=compact" alt="maybeaariz" /></p>
 
----
-
-## 🎯 My Goal
-Become a versatile Full Stack Engineer who can build, improve, and ship complete applications from idea → reality.
-
----
-
-### ⭐ Thanks for visiting my profile!
-More projects coming as I learn and level up.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maybeaariz&show_icons=true&locale=en" alt="maybeaariz" /></p>
