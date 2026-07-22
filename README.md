@@ -10,7 +10,6 @@ Building intelligent, high-performance applications across **Web**, **iOS**, and
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/maybeaariz)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/maybeaariz)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square\&logo=tiktok\&logoColor=white)](https://tiktok.com/@maybeaariz)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square\&logo=reddit\&logoColor=white)](https://reddit.com/user/maybeaariz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:aarizsheikh.uk@gmail.com)
 
 </div>
