@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aariz
 
-### Software Engineer • AI • Aspiring Full-Stack Developer
+### Software Engineer • AI • Full-Stack Developer
 
 Building intelligent products for **Web**, **iOS**, and **Android**.
 
