@@ -1,82 +1,95 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:61DAFB,100:2563EB&text=Aariz%20Sheikh&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Full-Stack%20Developer&descAlignY=58"/>
+# 👋 Hi, I'm Aariz
 
-# Hi, I'm Aariz 👋
+### Software Engineer • AI • Full-Stack Developer
 
-### Building AI-powered products for Web, iOS & Android
+Building intelligent products for **Web**, **iOS**, and **Android**.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+with+Python+%2B+TypeScript;AI+%7C+React+%7C+React+Native;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;React+•+React+Native+•+TypeScript;Python+•+Automation+•+Backend;Always+building+something+new"/>
 
-<p>
+<br>
 
 <a href="https://linkedin.com/in/maybeaariz">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
-
+<a href="https://github.com/maybeaariz">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</a>
 <a href="https://x.com/maybeaariz">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"/>
 </a>
-
-<a href="https://instagram.com/maybeaariz">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://tiktok.com/@maybeaariz">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
 <a href="mailto:aarizsheikh.uk@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=maybeaariz&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About
 
-I'm a **Full-Stack Software Engineer** passionate about building intelligent software that combines **AI**, **automation**, and modern user experiences.
+I'm a software engineer passionate about building modern software that combines **AI**, **automation**, and intuitive user experiences.
 
-I enjoy taking ideas from concept to production, developing scalable backends with **Python** and creating responsive interfaces using **React**, **React Native**, and **TypeScript**.
+My primary stack includes **Python**, **TypeScript**, **React**, and **React Native**, allowing me to build complete products from backend logic to polished mobile and web interfaces.
 
-- 🚀 Building modern web & mobile applications
-- 🤖 Exploring AI, LLMs and automation
-- 📱 Cross-platform development with React Native
-- 🎯 Focused on clean architecture and maintainable code
-- 🌱 Always learning and shipping projects
+I enjoy solving complex engineering problems, learning new technologies, and shipping products people enjoy using.
 
 ---
 
-# ⚒️ Tech Stack
-
-### Languages
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css,tailwind,git,github,firebase,supabase,vscode,figma&perline=8"/>
 
 </p>
 
-### Frameworks
+---
 
-<p align="center">
+# 📌 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
+<table>
+<tr>
+<td width="50%">
 
-</p>
+### 📱 Shelfie
 
-### Tools
+AI-powered marketplace built with React Native.
 
-<p align="center">
+> React Native • TypeScript • Expo • AI
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase"/>
+</td>
 
-</p>
+<td width="50%">
+
+### 🎥 YouTube Clone
+
+Pixel-perfect YouTube homepage recreated using HTML & CSS.
+
+> HTML • CSS Grid • Flexbox
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚖️ Auction Platform
+
+Modern online bidding platform focused on speed and simplicity.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Experiments
+
+LLMs, automation tools and intelligent workflows.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -86,23 +99,23 @@ I enjoy taking ideas from concept to production, developing scalable backends wi
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maybeaariz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maybeaariz&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=maybeaariz&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybeaariz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybeaariz&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💭 Quote
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maybeaariz&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -110,10 +123,8 @@ I enjoy taking ideas from concept to production, developing scalable backends wi
 
 <div align="center">
 
-### Thanks for visiting!
+### 💡 "Great software is built one commit at a time."
 
-If you like what I build, feel free to connect or check out my repositories ⭐
+⭐ Thanks for stopping by!
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:2563EB,100:61DAFB"/>
