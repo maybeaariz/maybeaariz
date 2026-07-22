@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aariz+Sheikh+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Building+with+AI%2C+Web+%26+Mobile" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0077B5&height=200&section=header&text=Aariz%20Sheikh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-### Building intelligent, high-performance applications across **Web**, **iOS**, and **Android**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+AI%2C+Web+%26+Mobile;Full-Stack+Engineer+%7C+Python+%2B+TypeScript;Turning+ideas+into+polished+products" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://linkedin.com/in/maybeaariz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,11 +18,11 @@
 
 ## About Me
 
-I'm a software engineer who builds modern applications where **AI**, **automation**, and clean UX meet. I work across the full stack — using **Python** for AI-powered features and automation tooling, and **TypeScript / React / React Native** for responsive web and mobile experiences.
+I'm a software engineer building modern applications where **AI**, **automation**, and clean UX meet. I work across the full stack — using **Python** for AI-powered features and automation tooling, and **TypeScript / React / React Native** for responsive web and mobile experiences.
 
 - 🔭 Currently building intelligent, scalable products end-to-end
 - 🌱 Always leveling up on new AI tooling and frameworks
-- ⚡ Enjoys turning ambiguous ideas into polished, working software
+- ⚡ Enjoy turning ambiguous ideas into polished, working software
 - 📫 Reach me at **aarizsheikh.uk@gmail.com**
 
 <br/>
@@ -49,30 +49,19 @@ I'm a software engineer who builds modern applications where **AI**, **automatio
 
 <br/>
 
-## Featured Projects
-
-> Swap these in for your real repos — pinned project cards look far better than plain text here.
-
-<p align="center">
-  <a href="https://github.com/maybeaariz/REPO_ONE">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=maybeaariz&repo=REPO_ONE&theme=dark" />
-  </a>
-  <a href="https://github.com/maybeaariz/REPO_TWO">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=maybeaariz&repo=REPO_TWO&theme=dark" />
-  </a>
-</p>
-
-<br/>
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=maybeaariz&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=maybeaariz&theme=dark&layout=compact&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=maybeaariz&theme=dark&hide_border=true" height="170"/>
 </p>
 
+<br/>
+
+## Contribution Snake
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maybeaariz&theme=dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/maybeaariz/maybeaariz/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
 <br/>
@@ -83,10 +72,5 @@ I'm a software engineer who builds modern applications where **AI**, **automatio
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=120&section=footer"/>
 
-<div align="center">
-
-**Thanks for stopping by — always open to interesting collabs.** ✨
-
-</div>
