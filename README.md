@@ -38,7 +38,7 @@
 
 # 💫 About Me
 
-I'm a **Full-Stack Software Engineer** passionate about building intelligent software that combines **AI**, **automation**, and modern user experiences.
+I'm a **Aspiring Full-Stack Software Engineer** passionate about building intelligent software that combines **AI**, **automation**, and modern user experiences.
 
 I enjoy taking ideas from concept to production, developing scalable backends with **Python** and creating responsive interfaces using **React**, **React Native**, and **TypeScript**.
 
