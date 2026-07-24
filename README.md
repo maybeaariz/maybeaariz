@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:61DAFB,100:2563EB&text=Aariz%20Sheikh&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20•%20Full-Stack%20Developer&descAlignY=58"/>
 
-# Hi, I'm Aariz 👋
+# Hi, I'm Aariz 👋 
 
 ### Building AI-powered products for Web, iOS & Android
 
