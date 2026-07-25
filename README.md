@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, it's Aariz 👋
+Hey, it's Aariz 👋
 
 ### Aspiring Full-Stack Software Engineer
 
