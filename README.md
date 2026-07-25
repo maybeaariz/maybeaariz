@@ -1,35 +1,81 @@
 <div align="center">
 
-<h1 style="font-size: 48px; margin-bottom: 10px;">
-  Hey, I'm Aariz, 17
-</h1>
+# Hey, I'm Aariz
 
-<h3 style="margin-top: 0;">
-  Aspiring Full-Stack Software Engineer
-</h3>
+### Aspiring Full-Stack Software Engineer
+
+*Building projects, learning by doing, and sharing my journey.*
+
+<br>
+
+<a href="https://linkedin.com/in/maybeaariz">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/maybeaariz">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 </div>
 
+---
 
+## 👨‍💻 About Me
 
- 
-</div>
-- Software Engineer
-- Building projects & learning by doing
-- Open to connecting, reach out anytime
+- 💻 Aspiring Software Engineer
+- 🚀 Building projects & learning by doing
+- 📱 Currently exploring Full-Stack Development
+- 🤝 Open to collaborating on interesting projects
+- 📫 Reach out anytime
 
-Languages/IDEs/Tools I often use:
- 
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
- 
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
- 
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/> <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/> <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode"/> <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma"/>
+---
 
-Socials:
- 
-<a href="https://linkedin.com/in/maybeaariz"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/maybeaariz"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white"/></a>
- 
-Feel free to explore my repos, or [reach out](mailto:aarizsheikh.uk@gmail.com) if you have a question
- 
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/>
+</p>
+
+### Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react"/>
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma"/>
+</p>
+
+---
+
+## 📬 Connect
+
+<p>
+  <a href="https://linkedin.com/in/maybeaariz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/maybeaariz">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or just chat.
