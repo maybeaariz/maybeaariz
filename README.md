@@ -1,26 +1,17 @@
 <div align="center">
 
-# Hey, I'm Aariz
+<p>Hey, I'm Aariz</p>
 
-### Aspiring Full-Stack Software Engineer
+Aspiring Full-Stack Software Engineer
 
-*Building projects, learning by doing, and sharing my journey.*
-
-
-
-<a href="https://linkedin.com/in/maybeaariz">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/maybeaariz">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
 
 </div>
 
----
+• Building applications and experimenting with new technologies <br>
+• Currently learning and improving my software engineering skills <br>
+• Open to collaborating on interesting projects and connecting with developers 
 
-### Tools and langauges that I use alot.
+Tools and languages I use a lot:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5"/>
@@ -36,16 +27,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma"/>
 </p>
-
----
 
 ## 📬 Connect
 
@@ -53,17 +37,11 @@
   <a href="https://linkedin.com/in/maybeaariz">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://x.com/maybeaariz">
-    <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"/>
   </a>
-
-  <a href="https://discord.com/users/maybeaarizz">
+  <a href="https://discord.com/users/YOUR_ID">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
-
-  <a href="mailto:aarizsheikh.uk@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
