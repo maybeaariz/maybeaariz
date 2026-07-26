@@ -34,9 +34,6 @@ Tools and languages I use a lot:
 Connect:
 
 <p>
-  <a href="https://linkedin.com/in/maybeaariz">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://x.com/maybeaariz">
     <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white"/>
   </a>
