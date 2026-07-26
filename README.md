@@ -6,7 +6,7 @@
 
 *Building projects, learning by doing, and sharing my journey.*
 
-<br>
+
 
 <a href="https://linkedin.com/in/maybeaariz">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,19 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 💻 Aspiring Software Engineer
-- 🚀 Building projects & learning by doing
-- 📱 Currently exploring Full-Stack Development
-- 🤝 Open to collaborating on interesting projects
-- 📫 Reach out anytime
-
----
-
-## 🛠 Tech Stack
-
-### Languages
+### Tools and langauges that I use alot.
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5"/>
@@ -42,21 +30,14 @@
   <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/>
 </p>
 
-### Frameworks
-
 <p>
   <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react"/>
 </p>
 
-### Database
-
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
 </p>
-
-### Tools
-
 <p>
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
@@ -70,11 +51,19 @@
 
 <p>
   <a href="https://linkedin.com/in/maybeaariz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://x.com/maybeaariz">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.com/users/maybeaarizz">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  </a>
+
+  <a href="mailto:aarizsheikh.uk@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
