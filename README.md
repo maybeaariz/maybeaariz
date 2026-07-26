@@ -24,11 +24,10 @@ Tools and languages I use a lot:
 <p>
   <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma"/>
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma"/>
-</p>
 
 Connect:
 
