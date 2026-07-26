@@ -31,7 +31,7 @@ Tools and languages I use a lot:
   <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma"/>
 </p>
 
-## 📬 Connect
+Connect:
 
 <p>
   <a href="https://linkedin.com/in/maybeaariz">
