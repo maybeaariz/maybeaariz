@@ -27,7 +27,6 @@ Tools and languages I use a lot:
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma"/>
 </p>
 
