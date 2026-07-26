@@ -18,7 +18,10 @@ Tools and languages I use a lot:
   <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript"/>
+  <p/>
+<p>
   <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Claude-black?style=flat-square&logo=anthropic&logoColor=white"/>
 </p>
 
 <p>
