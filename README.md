@@ -11,7 +11,7 @@ Aspiring Full-Stack Software Engineer
 • Currently learning and improving my software engineering skills <br>
 • Open to collaborating on interesting projects and connecting with developers
 
-Tools and languages I use a lot:
+Tools and languages I use quite a lot:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5"/>
