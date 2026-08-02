@@ -9,7 +9,7 @@ Aspiring Full-Stack Software Engineer
 
 • Building applications and experimenting with new technologies <br>
 • Currently learning and improving my software engineering skills <br>
-• Open to collaborating on interesting projects and connecting with developers 
+• Open to collaborating on interesting projects and connecting with devs 
 
 Tools and languages I use a lot:
 
