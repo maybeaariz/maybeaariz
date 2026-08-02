@@ -5,7 +5,7 @@
 Aspiring Full-Stack Software Engineer
 
 
-</div>
+</div> 
 
 • Building applications and experimenting with new technologies <br>
 • Currently learning and improving my software engineering skills <br>
