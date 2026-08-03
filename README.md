@@ -28,7 +28,7 @@ Tools and languages I use quite a lot:
   <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma"/>
-
+  
 </p>
 
 
